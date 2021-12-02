@@ -1,0 +1,26 @@
+윤도현
+
+원형) 발화요인별 - 소분류 건수
+(발화요인대분류, 발화요인소분류)
+
+원형) (?)월 전국 화재 비율 
+원 그래프 12개
+
+Date - 화재발생년월일
+SiDo - 시도
+SiGunGu - 시·군·구
+EupMyeonDong - 읍면동
+Type - 화재유형
+Source1 - 발화열원대분류
+Source2 - 발화열원소분류
+Cause1 - 발화요인대분류
+Cause2 - 발화요인소분류
+Start1 - 최초착화물대분류
+Start2 - 최초착화물소분류
+Members - 인명피해(명)소계
+Death - 사망
+Injury - 부상
+Moneys - 재산피해소계
+Area1 - 장소대분류
+Area2 - 장소중분류
+Area3 - 장소소분류
